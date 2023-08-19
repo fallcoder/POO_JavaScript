@@ -1,3 +1,4 @@
 # POO_JavaScript
-Je vous présente un mini script de JavaScript Orienté Objet représentant un cours et un programme de cours.
+Hello all, 
+I present to you a mini project of Object-Oriented JavaScript Representing a Lecture and a Schedule of Lectures.
 
